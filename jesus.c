@@ -9,7 +9,7 @@ float dummy_func(float number){
 }
 
 void rand_array (void){
-    dummy_func(10);
+    dummy_func(4000000040000000400000004000000040000000);
 }
 
 int get_value(int arr, int index){
